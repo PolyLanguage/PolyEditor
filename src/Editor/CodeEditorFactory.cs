@@ -32,6 +32,13 @@ namespace PolyEditor
             //light
             if (skin == HandyControl.Data.SkinType.Default || skin == HandyControl.Data.SkinType.Violet)
             {
+                //theme
+                editor.LineNumbersForeground =
+                    new Win.Media.SolidColorBrush(Win.Media.Color.FromRgb(100,100,100));
+                editor.Background =
+                    new Win.Media.SolidColorBrush(Win.Media.Color.FromRgb(250,250,250));
+                editor.Foreground =
+                    new Win.Media.SolidColorBrush(Win.Media.Color.FromRgb(12,12,12));
                 //syntax
                 using (IO.Stream stream = Win.Application.GetResourceStream(new Uri(
                         "pack://application:,,/Editor/LightSyntax.xshd", UriKind.RelativeOrAbsolute)).Stream)
