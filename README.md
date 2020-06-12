@@ -1,6 +1,7 @@
 # About
 PolyEditor is lightweight code editor for Poly Programming Language.
-
+![Dark Theme SS](https://raw.githubusercontent.com/PolyLanguage/PolyEditor/master/docs/img/darktheme.PNG)
+![Light Theme SS](https://raw.githubusercontent.com/PolyLanguage/PolyEditor/master/docs/img/lighttheme.PNG)
 ### Features
 PolyEditor has alot of useful features for coding in Poly. The full list of features:
 - Editor Theming (Light/Dark Themes)
