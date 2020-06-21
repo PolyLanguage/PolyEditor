@@ -20,6 +20,7 @@ PolyEditor has alot of useful features for coding in Poly. The full list of feat
 - [ ] Dynamic Code-Completion (async)
 - [ ] PolyPackages Support (Pack/Unpack Code)
 - [ ] Libraries Import Support (Import Poly Packages)
+- [ ] PolyToolkitX Support (Poly v2.0 Support) 
 # Building
 1. Download PolyEditor repo
 2. Open PolyEditor.csproj in Visual Studio
